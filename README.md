@@ -18,6 +18,10 @@ Usage
 
 ####Creating the File Structure
 
+```bash
+cpr init [options]
+```
+
 .... we're working on it ....
 
 ####Parsing Pre-Processor Languages, Saving the Results and Reloading the Browser With the Changes
