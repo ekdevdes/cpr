@@ -1,0 +1,48 @@
+{
+  "name": "cpr-node",
+  "version": "0.0.1",
+  "description": "A command-line website creation toolset. CPR stands for Create, Package, Run. CPR helps you create the initial file structure for your website, acts a basic package manager and parses HTML, CSS and JS pre-processor languages such as Markdown or HAML, SASS or LESS and CoffeeScript",
+  "author": "Ethan Kramer <ethankr@me.com> (http://ek.alphaschildren.org)",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ekdevdes/cpr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ekdevdes/cpr/issues"
+  },
+  "keywords": [
+    "website",
+    "creation",
+    "cli",
+    "command",
+    "line",
+    "haml",
+    "sass",
+    "markdown",
+    "less",
+    "coffeescript",
+    "js",
+    "javascript",
+    "html",
+    "pre-processor",
+    "package",
+    "manager",
+    "create",
+    "toolset",
+    "parse"
+  ],
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "commander": "^2.3.0",
+    "github-markdown": "^0.4.1",
+    "less-creeper": "0.0.2",
+    "request": "^2.44.0"
+  },
+  "bin": {
+    "cpr": "cpr.js"
+  },
+  "license": "MIT"
+}
