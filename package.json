@@ -36,8 +36,10 @@
   ],
   "dependencies": {
     "chalk": "^0.5.1",
+    "cmd-exec": "0.0.2",
     "commander": "^2.3.0",
     "github-markdown": "^0.4.1",
+    "jslint": "^0.6.4",
     "less-creeper": "0.0.2",
     "request": "^2.44.0"
   },
