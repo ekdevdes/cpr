@@ -41,6 +41,7 @@
     "github-markdown": "^0.4.1",
     "jslint": "^0.6.4",
     "less-creeper": "0.0.2",
+    "nodewatch": "^0.3.1",
     "request": "^2.44.0"
   },
   "bin": {
