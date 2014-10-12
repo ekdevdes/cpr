@@ -22,12 +22,6 @@ Usage
 cpr init [options]
 ```
 
-jaslkfsdlkfjlkdsjfds
-fasdf
-asdkfsadjflkasdjflksdjfkldsajfkldsjfkldsjflkdsf
-a
-dfkas;dfjas;djflaksdjf;ladsfas
-
 .... we're working on it ....
 
 ####Parsing Pre-Processor Languages, Saving the Results and Reloading the Browser With the Changes
