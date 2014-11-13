@@ -1,0 +1,10 @@
+jquery: {
+  url: github.com,
+  version: ~> 1.0
+}
+
+storage: {
+  url: "http://github.com/ekdevdes/storage.js",
+  src: "src/index.js,src/two.js,src/three.js",
+  version: 1.0
+}
