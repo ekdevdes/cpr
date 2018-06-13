@@ -38,17 +38,23 @@
     "chalk": "~>0.5.1",
     "cmd-exec": "~>0.1.0",
     "optimist": "~>0.6.1",
-    "github-markdown": "~>0.4.1",
-    "jslint": "~>0.6.5",
+    "github-markdown": "~>0.5.0",
+    "jslint": "~>0.10.0",
     "less-creeper": "~>0.0.2",
     "nodewatch": "~>0.3.1",
-    "request": "~>2.47.0",
-    "yamljs":"^0.2.1",
-    "semver": "4.1.0",
-    "mkdirp" : "0.5.0"
+    "request": "~>2.82.0",
+    "yamljs": "^0.2.1",
+    "semver": "4.3.2",
+    "mkdirp": "0.5.0",
+    "snyk": "^1.82.2"
   },
   "bin": {
     "cpr": "./lib/cpr.js"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
