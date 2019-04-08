@@ -38,7 +38,7 @@
     "chalk": "~>0.5.1",
     "cmd-exec": "~>0.1.0",
     "optimist": "~>0.6.1",
-    "github-markdown": "~>0.5.0",
+    "github-markdown": "~1.1.0",
     "jslint": "~>0.10.0",
     "less-creeper": "~>0.0.2",
     "nodewatch": "~>0.3.1",
