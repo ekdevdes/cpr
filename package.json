@@ -1,18 +1,8 @@
 {
   "name": "cpr-node",
   "version": "0.0.1",
-  "description": "A command-line website creation toolset. CPR stands for Create, Package, Run. CPR helps you create the initial file structure for your website, acts a basic package manager and parses HTML, CSS and JS pre-processor languages such as Markdown or HAML, SASS or LESS and CoffeeScript",
+  "description": "Create, Package Run (CPR) – a command-line website creation toolset. Helps save you time by scaffolding an initial website structure so you have more time to work on the stuff that matters 💪.",
   "author": "Ethan Kramer <ethankr@me.com> (http://ek.alphaschildren.org)",
-  "engines": {
-    "node": ">=0.10"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ekdevdes/cpr.git"
-  },
-  "bugs": {
-    "url": "https://github.com/ekdevdes/cpr/issues"
-  },
   "keywords": [
     "website",
     "creation",
