@@ -34,9 +34,9 @@
     "nodewatch": "~>0.3.1",
     "request": "~2.88.0",
     "yamljs": "^0.2.1",
-    "semver": "4.3.2",
+    "semver": "7.5.2",
     "mkdirp": "1.0.0",
-    "snyk": "^1.82.2"
+    "snyk": "^1.685.0"
   },
   "devDependencies": {
     "highlight.js": ">=10.4.1",
